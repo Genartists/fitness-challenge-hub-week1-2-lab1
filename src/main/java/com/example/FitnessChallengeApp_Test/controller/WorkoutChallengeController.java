@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.util.ArrayList;
 import java.util.List;
 
+
 /**
  * Controller for FitSquad Hub challenges view.
  * Handles root ("/") and "/challenges" endpoints.

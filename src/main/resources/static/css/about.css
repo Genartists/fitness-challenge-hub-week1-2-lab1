@@ -1,0 +1,6 @@
+.about-hero-card {
+    background: var(--card-bg, rgba(22, 30, 49, 0.75));
+    border: 1px solid var(--card-border, rgba(255, 255, 255, 0.08));
+    border-radius: 18px;
+    padding: 2.5rem;
+}
